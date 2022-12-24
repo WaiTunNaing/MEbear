@@ -1,5 +1,5 @@
 # Wai Tun Naing
-Hi, I am an undergraduate engineering student in Mechanical Engineering with minor in Electrical Engineering & Computer Science at UC Berkeley. I have previously interned at Zeiss for OCT device systems and I have also worked as a robotics engineer for a project that has won the grand prize for E-Robot challenge by Department of Energy. My main interests have been mechanical design, medical technology and robotics. <br/>
+Hi, I am an undergraduate engineering student in Mechanical Engineering with minor in Electrical Engineering & Computer Science at UC Berkeley. I have previously interned at Zeiss for OCT device systems and I have also worked as a robotics engineer for a project that has won the grand prize for E-Robot challenge by Department of Energy. My main interests have been mechanical design, medical technology and robotics. <br/><br/>
 Linkedin: https://www.linkedin.com/in/waitunnaing/ <br/>
 Website: https://waitunnaing.wixsite.com/website <br/>
 Github: https://github.com/WaiTunNaing <br/>
